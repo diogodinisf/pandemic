@@ -1,0 +1,9 @@
+# files
+config.json
+
+# folders
+logs/
+dist/
+__pycache__/
+.venv/
+.idea/
