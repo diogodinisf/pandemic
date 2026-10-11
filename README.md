@@ -2,7 +2,7 @@
 Little project showing the implementation if an pandemic algorithm.
 It is slow, not really optimized (I didn't use cv or numpy or purpose), made to have fun without LLMs help.
 
-![alt text](https://github.com/diogodinisf/pandemic/resources/example.png "Example")
+![alt text](https://github.com/diogodinisf/pandemic/blob/main/resources/example.png)
 
 ## Information
 - a not infected cell cannot infect others
